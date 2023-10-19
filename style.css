@@ -10,11 +10,19 @@ color: white;
 }
 #header{
     width: 100%;
-    height: 100vh;
+    height:100vh;
+   
     background-image:url(/images/background.png);
-    background-size: cover;
+    background-size:cover;
     background-position: center;
+} 
+
+
+
+.header-text{
+    display: inline-block;
 }
+
 .contaner{
     padding: 10px 10%;
 }
